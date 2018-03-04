@@ -4,5 +4,8 @@ module.exports = {
     options: {
       pathToConfigModule: `src/utils/typography.js`
     }
-  }] 
+  }],
+  siteMetadata: {
+    title: `Blah Blah Fake Title`
+  }
 };
